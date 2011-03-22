@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 # hello.py: demo
 
-'''Este es un ejemplo
+'''
+Este es un ejemplo
 '''
 
 print "Hello world"
