@@ -11,4 +11,6 @@ print "Hello world"
 nombre = raw_input("Ingresa tu nombre: ")
 print "Hello " + nombre + " too"
   
+print "Saliendo..."
+
 
